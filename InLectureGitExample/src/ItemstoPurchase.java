@@ -1,7 +1,15 @@
 
 public class ItemstoPurchase {
-
-	String name;
-	String type;
 	
+//	Private fields
+//	String itemName 
+//	int itemPrice 
+//	int itemQuantity 
+	
+//	Default constructor
+	
+	String itemName;
+	int itemPrice;
+	int itemQuantity;
+
 }
