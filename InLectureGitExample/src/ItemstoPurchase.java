@@ -1,6 +1,5 @@
 
 public class ItemstoPurchase {
-
 	
 	String itemName;
 	int itemPrice;
@@ -25,5 +24,9 @@ public class ItemstoPurchase {
 		this.itemQuantity = itemQuantity;
 	}
 	
+	
+	public void doublePrice() {
+		this.itemPrice *= 2;
+	}
 	
 }
